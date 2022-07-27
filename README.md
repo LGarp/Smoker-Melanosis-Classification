@@ -1,2 +1,2 @@
-# Smoker-Melanosis-Classification
+# Gingiva-Pigmentation-Smoker-Melanosis-Classification
 CLASSIFICATION OF MELANOSIS SMOKER PIGMENTATION THROUGH GINGIVA IMAGES OF SMOKERS (KNN)
